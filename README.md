@@ -23,5 +23,5 @@ This project is part of my Python practice after completing the Codecademy Pytho
 ## Built With
 
 - Python 3
-- Git
+- Git•
 - GitHub
