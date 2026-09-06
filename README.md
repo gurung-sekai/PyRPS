@@ -1,27 +1,34 @@
 # RPS Arena
 
-A simple Rock Paper Scissors game built with Python.
-
-## About
-
-This project is part of my Python practice after completing the Codecademy Python 3 course. The goal is to improve my confidence with building programs independently and applying core Python concepts.
+A simple command-line Rock Paper Scissors game built with Python as part of my transition from guided exercises toward independent programming practice.
 
 ## Features
 
-- Player chooses Rock, Paper, or Scissors
-- Computer makes a random choice
-- Program determines the winner
+- Player selects Rock, Paper, or Scissors
+- Computer chooses randomly
+- Winner is determined using conditional logic
+- Replay loop allows multiple rounds in one session
 
-## Future Improvements
+## What I Practised
 
-- Score tracking
-- Multiple rounds
-- Input validation
-- Replay option
-- Better terminal interface
+- User input handling
+- Conditional logic
+- Loops
+- Random selection with Python's `random` module
+- Structuring a small interactive program
+
+## Project Structure
+
+- `Project/rps.py` — initial implementation
+- `Project/rps_2.py` — improved version with replay support
+- `Design/` and `Review/` — planning and reflection material from the development process
 
 ## Built With
 
 - Python 3
-- Git•
+- Git
 - GitHub
+
+## Next Steps
+
+Future improvements could include stronger input validation, score tracking, and a cleaner terminal interface.
